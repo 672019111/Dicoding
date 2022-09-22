@@ -17,22 +17,11 @@ Berapakah maksimal penyimpan data di web storage untuk masing-masing domain?
 
 * 10 MB
 
-
 ---------------------------------------------------------------------------------
 
 Method pada local storage dan session storage yang berfungsi untuk membersihkan seluruh item adalah …
 
-- [ ] clear()
-- [x] removeAll()
-- [x] reset()
-- [x] destroy()
-
-
----------------------------------------------------------------------------------
-- [ ] setItem()
-- [ ] length
-- [x] clear()
-- [ ] deleteItem()
+* clear()
 
 ---------------------------------------------------------------------------------
 Apa fungsi dari JSON.stringify()?
@@ -65,3 +54,14 @@ Web Storage memiliki dua tipe penyimpanan yaitu …
 Manakah pernyataan yang benar dari Local Storage dan Session Storage?
 * Data yang disimpan pada local storage tidak akan hilang sampai menghapusnya secara manual, sedangkan data yang disimpan pada session storage akan hilang saat tab atau browser ditutup
 ---------------------------------------------------------------------------------
+Apa kondisi yang dapat memicu HTML Event “keydown”?
+* Saat pengguna menekan tombol dengan keras
+* Saat pengguna melepas tombol keyboard (setelah ditekan)
+* Saat pengguna menekan tombol keyboard
+---------------------------------------------------------------------------------
+Apa yang dimaksud dengan event website pada JavaScript?
+* Kejadian tertentu pada HTML element  yang dapat memicu jalannya kode JavaScript saat kejadian tersebut terjadi
+* Kejadian tertentu pada HTML element yang dapat memicu jalannya CSS saat kejadian tersebut terjadi
+* Kejadian memicu dokumen HTML untuk dimuat ketika kode JavaScript dijalankan
+
+* 
