@@ -40,7 +40,6 @@ Apa kondisi yang dapat memicu HTML Event “keydown”?
 Apa yang dimaksud dengan event website pada JavaScript?
 * Kejadian tertentu pada HTML element  yang dapat memicu jalannya kode JavaScript saat kejadian tersebut terjadi
 * Kejadian tertentu pada HTML element yang dapat memicu jalannya CSS saat kejadian tersebut terjadi
-* Kejadian memicu dokumen HTML untuk dimuat ketika kode JavaScript dijalankan
 ---------------------------------------------------------------------------------
 JavaScript merupakan bahasa scripting yang mana diterjemahkan ke bahasa mesin dengan teknik …
 * Interpreter
