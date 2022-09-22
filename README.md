@@ -10,19 +10,12 @@ const getObject = localStorage.getItem('newItem');
 console.log(`${getObject.satu} ${getObject.dua} ${getObject.tiga}`);
 
 * undefined undefined undefined
-
 ---------------------------------------------------------------------------------
-
 Berapakah maksimal penyimpan data di web storage untuk masing-masing domain?
-
 * 10 MB
-
 ---------------------------------------------------------------------------------
-
 Method pada local storage dan session storage yang berfungsi untuk membersihkan seluruh item adalah …
-
 * clear()
-
 ---------------------------------------------------------------------------------
 Apa fungsi dari JSON.stringify()?
 
@@ -33,22 +26,12 @@ Apa fungsi dari JSON.stringify()?
 
 ---------------------------------------------------------------------------------
 Manakah method atau properti yang tidak didukung oleh Local Storage maupun Session Storage?
-
-- [X] setItem()
-- [ ] deleteItem()
-- [x] length
-- [ ] clear()
-  
+* deleteItem()
 ---------------------------------------------------------------------------------
 Apa yang dimaksud dengan Web Storage?
-
-- [ ] Sebuah web server yang berfokus dalam menangani perdataan website
-- [ ] Salah satu Web API yang memiliki fitur penyimpanan data secara local di sisi client (browser)
-- [ ] Benar semua
-- [X] Salah satu database pengganti yang ada di web server
+* Salah satu Web API yang memiliki fitur penyimpanan data secara local di sisi client (browser)
 ---------------------------------------------------------------------------------
 Web Storage memiliki dua tipe penyimpanan yaitu …
-
 * Session Storage dan Local Storage
 ---------------------------------------------------------------------------------
 Manakah pernyataan yang benar dari Local Storage dan Session Storage?
@@ -63,5 +46,12 @@ Apa yang dimaksud dengan event website pada JavaScript?
 * Kejadian tertentu pada HTML element  yang dapat memicu jalannya kode JavaScript saat kejadian tersebut terjadi
 * Kejadian tertentu pada HTML element yang dapat memicu jalannya CSS saat kejadian tersebut terjadi
 * Kejadian memicu dokumen HTML untuk dimuat ketika kode JavaScript dijalankan
-
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 * 
