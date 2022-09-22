@@ -14,7 +14,7 @@ console.log(`${getObject.satu} ${getObject.dua} ${getObject.tiga}`);
 Berapakah maksimal penyimpan data di web storage untuk masing-masing domain?
 * 10 MB
 ---------------------------------------------------------------------------------
-Method pada local storage dan session storage yang berfungsi untuk membersihkan seluruh item adalah …
+Method pada local storage dan session storage yang berfungsi untuk membersihkan seluruh item adalah
 * clear()
 ---------------------------------------------------------------------------------
 Apa fungsi dari JSON.stringify()?
