@@ -18,12 +18,7 @@ Method pada local storage dan session storage yang berfungsi untuk membersihkan 
 * clear()
 ---------------------------------------------------------------------------------
 Apa fungsi dari JSON.stringify()?
-
-- [ ] Mem-parsing object JavaScript menjadi string
-- [x] Mengubah string menjadi JSON
-- [ ] Mem-parsing string menjadi object JavaScript
-- [x] Mem-parsing JSON menjadi string
-
+*Mem-parsing object JavaScript menjadi string
 ---------------------------------------------------------------------------------
 Manakah method atau properti yang tidak didukung oleh Local Storage maupun Session Storage?
 * deleteItem()
@@ -47,6 +42,62 @@ Apa yang dimaksud dengan event website pada JavaScript?
 * Kejadian tertentu pada HTML element yang dapat memicu jalannya CSS saat kejadian tersebut terjadi
 * Kejadian memicu dokumen HTML untuk dimuat ketika kode JavaScript dijalankan
 ---------------------------------------------------------------------------------
+JavaScript merupakan bahasa scripting yang mana diterjemahkan ke bahasa mesin dengan teknik …
+* Interpreter
+---------------------------------------------------------------------------------
+Manakah contoh kode yang termasuk dari expression?
+* console.log('Dicoding Indonesia');
+* true ? 'benar' : 'salah';
+---------------------------------------------------------------------------------
+Manakah pernyataan yang menjelaskan dengan benar mengenai perbedaan dari ++i dengan i++?
+* ++i menaikkan nilai sebesar 1 (satu) terlebih dahulu lalu mengembalikkan nilainya, sedangkan i++ mengembalikkan nilai terlebih dahulu lalu menaikkan nilai sebesar 1 (satu)
+---------------------------------------------------------------------------------
+Bahasa pemrograman yang dapat dimengerti oleh browser untuk membangun website yang interaktif dan dinamis adalah …
+* JavaScript
+---------------------------------------------------------------------------------
+Pelopor yang menciptakan bahasa pemrograman JavaScript adalah …
+* Brendan Eich
+---------------------------------------------------------------------------------
+Apa yang dimaksud dengan event website pada JavaScript?
+* Kejadian tertentu pada HTML element  yang dapat memicu jalannya kode JavaScript saat kejadian tersebut terjadi
+* Benar semua
+* Kejadian tertentu pada HTML element yang dapat memicu jalannya CSS saat kejadian tersebut terjadi
+---------------------------------------------------------------------------------
+Apa kondisi yang dapat memicu HTML Event “keydown”?
+* Saat pengguna menekan tombol keyboard
+* Saat pengguna menekan tombol dengan keras
+---------------------------------------------------------------------------------
+Apa yang digunakan oleh JavaScript untuk mengendalikan tingkah laku website?
+* Browser Object Model dan Document Object Model
+* Window Object Model dan File Object Model
+* Occur dan Custom Occur
+---------------------------------------------------------------------------------
+Apa fungsi dari console sebagai komponen BOM?
+* Memberikan akses untuk melakukan debugging melalui console browser
+---------------------------------------------------------------------------------
+Manakah dari method-method berikut ini yang tidak dimiliki oleh window.console?
+* show()
+* log()
+---------------------------------------------------------------------------------
+Apa yang dimaksud dengan Web Storage?
+* Salah satu Web API yang memiliki fitur penyimpanan data secara local di sisi client (browser)
+---------------------------------------------------------------------------------
+Tipe data apa saja yang didukung oleh local storage?
+* Hanya berupa String
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
@@ -54,4 +105,7 @@ Apa yang dimaksud dengan event website pada JavaScript?
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-* 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+
