@@ -23,9 +23,9 @@ Berapakah maksimal penyimpan data di web storage untuk masing-masing domain?
 Method pada local storage dan session storage yang berfungsi untuk membersihkan seluruh item adalah …
 
 
--[] clear()
--[] removeAll()
--[] reset()
+-[ ] clear()
+-[ ] removeAll()
+-[ ] reset()
 -[x] destroy()
 
 
