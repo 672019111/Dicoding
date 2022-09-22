@@ -18,7 +18,7 @@ Method pada local storage dan session storage yang berfungsi untuk membersihkan 
 * clear()
 ---------------------------------------------------------------------------------
 Apa fungsi dari JSON.stringify()?
-*Mem-parsing object JavaScript menjadi string
+* Mem-parsing object JavaScript menjadi string
 ---------------------------------------------------------------------------------
 Manakah method atau properti yang tidak didukung oleh Local Storage maupun Session Storage?
 * deleteItem()
